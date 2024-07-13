@@ -33,13 +33,16 @@
 <img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p><br></br>
+</p><br>
+
+<h3 align="left">Total contributions and streaks: </h3>
+<img src="https://streak-stats.demolab.com?user=NadaMesbah&theme=react&card_width=400" alt="GitHub Streak" style="text-align: left"/>
 
 <h3 align="left">📈 GitHub stats: </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=NadaMesbah&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=NadaMesbah&show_icons=true&theme=react&rank_icon=github&card_width=300" alt="NadaMesbah"/>
 
 <h3 align="left">Most used languages: </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMesbah&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMesbah&layout=compact&theme=react"/>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
