@@ -39,7 +39,8 @@
 <img src="https://streak-stats.demolab.com?user=NadaMesbah&theme=react&card_width=400" alt="GitHub Streak" style="text-align: left"/>
 
 <h3 align="left">📈 GitHub stats: </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=NadaMesbah&show_icons=true&theme=react&rank_icon=github&card_width=300" alt="NadaMesbah"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadaMesbah&show_icons=true&theme=radical)
 
 <h3 align="left">Most used languages: </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMesbah&layout=compact&theme=react"/>
