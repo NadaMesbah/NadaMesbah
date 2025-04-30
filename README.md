@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Science and AI**
 - 📫 How to reach me **nadamesbah2003@gmail.com**
 
-<img align="right" width="450px" height="auto" alt="L" src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/cha-hae-in-1.jpg?q=70&fit=crop&w=1140&h=&dpr=1" />
+<img align="right" width="300px" height="auto" alt="L" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkbG03ZTdqaDZqOW44cGllcHVpdHliNHZkb20yaDk4Zjl5eHc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 <h3 align="left">💻 Visitors:</h3>
 
