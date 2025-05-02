@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Nada :)</h1>
 <h2 align="center">I’m a full-stack developer based in Morocco</h2>
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🌱 I’m currently working on **some cool projects**
 - 📫 How to reach me **nadamesbah2003@gmail.com**
 
 <img align="right" width="300px" height="auto" alt="L" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkbG03ZTdqaDZqOW44cGllcHVpdHliNHZkb20yaDk4Zjl5eHc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
