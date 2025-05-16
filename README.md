@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Nada :)</h1>
-<h2 align="center">I’m a full-stack developer based in Morocco</h2>
+<h2 align="center">I’m a Full-Stack developer based in Morocco</h2>
 
 - 🌱 I’m currently working on **some cool projects**
 - 📫 How to reach me **nadamesbah2003@gmail.com**
