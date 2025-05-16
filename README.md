@@ -4,38 +4,54 @@
 - 🌱 I’m currently working on **some cool projects**
 - 📫 How to reach me **nadamesbah2003@gmail.com**
 
-<img align="right" width="300px" height="auto" alt="L" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkbG03ZTdqaDZqOW44cGllcHVpdHliNHZkb20yaDk4Zjl5eHc5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
-
 <h3 align="left">💻 Visitors:</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{NadaMesbah}/count.svg)
 
+<h3 align="left"> 💻 Tech Stack: </h3>
 
+#### Programming Languages:
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-<img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p><br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,py" />
+  </div>
+
+<!-- Libraries and Frameworks -->
+
+#### Frontend Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,bootstrap,tailwind,materialui" />
+  </div>
+
+#### Backend Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet,spring" />
+  </div>
+<!-- Databases -->
+
+#### Mobile development Frameworks and Skills:
+
+<div align="left">      
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
+  </div>
+
+#### Database & Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,postman" />
+  </div>
+
+<!-- Tools and Technologies -->
+
+#### Other Essentials:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=github,linux,gitlab,ai,bots" />
+  </div>
+</div>
+
 
 <h3 align="left">📈 GitHub stats: </h3>
 
