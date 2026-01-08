@@ -90,75 +90,11 @@ me.say_hi()
 
 ---
 
-### 📊 Developer Metrics Dashboard
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NadaMesbah/NadaMesbah/output/snake-dark.svg" alt="Snake animation" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 Project Name 1
-Brief description of what this project does and why it's cool. Focus on the value it provides.
-
-**Tech Stack:** `React` `Node.js` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
-[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-#### 🎯 Project Name 2
-Brief description of what this project does and why it's cool. Focus on the value it provides.
-
-**Tech Stack:** `Next.js` `Django` `PostgreSQL`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
-[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎯 Project Name 3
-Brief description of what this project does and why it's cool. Focus on the value it provides.
-
-**Tech Stack:** `Android` `Kotlin` `Firebase`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
-[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-#### 🎯 Project Name 4
-Brief description of what this project does and why it's cool. Focus on the value it provides.
-
-**Tech Stack:** `Spring Boot` `React` `AWS`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
-[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
