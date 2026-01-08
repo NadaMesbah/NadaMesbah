@@ -1,11 +1,12 @@
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nada+Mesbah;Full-Stack+Developer;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NadaMesbah&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  </p>
+
+<!-- Dynamic Multi-line Greeting -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+There!+%F0%9F%91%8B+I'm+Nada+Mesbah;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NadaMesbah&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NadaMesbah?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
+</p>
 
 </div>
 
@@ -13,18 +14,25 @@
 
 ### 👩‍💻 About Me
 
-```typescript
-const nada = {
-    location: "Morocco 🇲🇦",
-    role: "Full-Stack Developer",
-    currentFocus: "Building innovative web solutions",
-    passions: ["Clean Code", "Problem Solving", "Learning New Tech"],
-    funFact: "I turn coffee into code ☕️"
-};
+```python
+class NadaMesbah:
+    def __init__(self):
+        self.username = "NadaMesbah"
+        self.location = "Morocco 🇲🇦"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+        self.current_focus = "Building scalable web solutions"
+        self.passion = "Clean code & innovative problem-solving"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+
+me = NadaMesbah()
+me.say_hi()
 ```
 
 - 🚀 Currently working on **exciting full-stack projects**
-- 💡 Exploring **modern web architectures** and **cloud technologies**
+- 💡 Exploring **modern web architectures** and **AWS cloud technologies**
 - 📧 Reach me at **nadamesbah2003@gmail.com**
 - ⚡ Always eager to collaborate on **open-source projects**
 
@@ -82,26 +90,75 @@ const nada = {
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Developer Metrics Dashboard
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NadaMesbah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NadaMesbah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMesbah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadaMesbah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/NadaMesbah/NadaMesbah/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadaMesbah&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
-</p>
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Project Name 1
+Brief description of what this project does and why it's cool. Focus on the value it provides.
+
+**Tech Stack:** `React` `Node.js` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
+[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+#### 🎯 Project Name 2
+Brief description of what this project does and why it's cool. Focus on the value it provides.
+
+**Tech Stack:** `Next.js` `Django` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
+[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎯 Project Name 3
+Brief description of what this project does and why it's cool. Focus on the value it provides.
+
+**Tech Stack:** `Android` `Kotlin` `Firebase`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
+[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+#### 🎯 Project Name 4
+Brief description of what this project does and why it's cool. Focus on the value it provides.
+
+**Tech Stack:** `Spring Boot` `React` `AWS`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaMesbah/project-name)
+[![Demo](https://img.shields.io/badge/Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,9 +182,9 @@ const nada = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer" />
+
+</div>
