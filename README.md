@@ -31,10 +31,10 @@ me = NadaMesbah()
 me.say_hi()
 ```
 
-- 🚀 Currently working on **exciting full-stack projects**
-- 💡 Exploring **modern web architectures** and **AWS cloud technologies**
-- 📧 Reach me at **nadamesbah2003@gmail.com**
-- ⚡ Always eager to collaborate on **open-source projects**
+- Currently working on **exciting full-stack projects**
+- Exploring **modern web architectures** and **AWS cloud technologies**
+- Reach me at **nadamesbah2003@gmail.com**
+- Always eager to collaborate on **open-source projects**
 
 ---
 
