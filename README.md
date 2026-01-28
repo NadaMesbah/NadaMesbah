@@ -20,12 +20,12 @@ class NadaMesbah:
         self.username = "NadaMesbah"
         self.location = "Morocco 🇲🇦"
         self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+        self.languages = ["C", "Java", "C++", "Python", "JavaScript", "TypeScript", "PL/SQL"]
         self.current_focus = "Building scalable web solutions"
         self.passion = "Clean code & innovative problem-solving"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+        print("Thanks for dropping by! Let's build something amazing together!")
 
 me = NadaMesbah()
 me.say_hi()
