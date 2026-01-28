@@ -20,7 +20,7 @@ class NadaMesbah:
         self.username = "NadaMesbah"
         self.location = "Morocco 🇲🇦"
         self.role = "Full-Stack Developer"
-        self.languages = ["C", "Java", "C++", "Python", "JavaScript", "TypeScript", "PL/SQL"]
+        self.languages = ["C", "Java", "C++", "C#", "Python", "JavaScript", "TypeScript", "PL/SQL"]
         self.current_focus = "Building scalable web solutions"
         self.passion = "Clean code & innovative problem-solving"
         
